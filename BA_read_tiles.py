@@ -48,7 +48,7 @@ enter = (left + windows_unadjusted_enter[0], top + windows_unadjusted_enter[1])
 # tile_size = (75, 75)
 # for i in range(5):
 #     for j in range(5):
-#         pyautogui.screenshot(f'word_master_bot/rack_imgs/BA_screenshot_{i}_{j}.png', region=racks[i][j])
+#         pyautogui.screenshot(f'rack_imgs/BA_screenshot_{i}_{j}.png', region=racks[i][j])
 
 # generate a frequency plot of the colours in the image
  
@@ -90,7 +90,7 @@ def convert_img_to_result(img):
         return 0
 
 # rgb_freq = {}
-# img = Image.open('word_master_bot/rack_imgs/BA_screenshot_4_1.png')
+# img = Image.open('rack_imgs/BA_screenshot_4_1.png')
 # rgb_values = get_rgb(img)
 # for rgb in rgb_values:
 #     if rgb in rgb_freq:
@@ -109,7 +109,7 @@ def convert_img_to_result(img):
 #     pyautogui.moveTo(left + 100, top + 100)
 #     # screenshot the tile
 #     time.sleep(0.1)
-#     img = pyautogui.screenshot(f'word_master_bot/tile_imgs/BA_screenshot_{char}.png', region=racks[0][0])
+#     img = pyautogui.screenshot(f'tile_imgs/BA_screenshot_{char}.png', region=racks[0][0])
 #     pyautogui.click((left + 414, top + 214))
 #     time.sleep(0.1)
 
@@ -121,13 +121,13 @@ def letter_determiner():
         pyautogui.moveTo(left + 100, top + 100)
         # screenshot the tile
         time.sleep(0.1)
-        img = pyautogui.screenshot(f'word_master_bot/tile_imgs/BA_screenshot_{char}.png', region=racks[0][0])
+        img = pyautogui.screenshot(f'tile_imgs/BA_screenshot_{char}.png', region=racks[0][0])
         pyautogui.click((left + 414, top + 214))
         time.sleep(0.1)
     all_pixels = {}
     for char in 'ABCDEFGHIJKLMNOPQRSTUVWXYZ':
         # get all pixels in the image
-        img = Image.open(f'word_master_bot/tile_imgs/BA_screenshot_{char}.png')
+        img = Image.open(f'tile_imgs/BA_screenshot_{char}.png')
         for x in range(img.size[0]):
             for y in range(img.size[1]):
                 if img.getpixel((x, y)) == (0, 0, 0):
@@ -154,7 +154,7 @@ def letter_determiner():
 # all_pixels = {}
 # for char in 'FIJL':
 #     # get all pixels in the image
-#     img = Image.open(f'word_master_bot/tile_imgs/BA_screenshot_{char}.png')
+#     img = Image.open(f'tile_imgs/BA_screenshot_{char}.png')
 #     pixels = []
 #     for x in range(img.size[0]):
 #         for y in range(img.size[1]):

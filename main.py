@@ -5,13 +5,13 @@ import pickle as pkl
 
 if '__main__' == __name__:
     word_master_target_dictionary = []
-    with open("word_master_bot/word_master_dictionary.txt") as f:
+    with open("word_master_dictionary.txt") as f:
         lines = f.readlines()
         for line in lines:
             word_master_target_dictionary.append(line.strip())
 
     word_master_word_dictionary = []
-    with open("word_master_bot/BA_5_letter_dictionary.txt") as f:
+    with open("BA_5_letter_dictionary.txt") as f:
         lines = f.readlines()
         for line in lines:
             word = line.strip()
@@ -30,10 +30,10 @@ if '__main__' == __name__:
                 tested_word = best_word(states, word_master_target_dictionary, word_master_word_dictionary, cache)
                 verdict = output(target, tested_word)
                 states[tested_word] = verdict
-        with open("word_master_bot/cache.pkl", "wb") as f:
+        with open("cache.pkl", "wb") as f:
             pkl.dump(cache, f)
 
-    with open("word_master_bot/cache.pkl", "rb") as f:
+    with open("cache.pkl", "rb") as f:
         cache = pkl.load(f)
     time.sleep(2)
     
