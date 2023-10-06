@@ -1,7 +1,9 @@
 from math import inf, log2
 from collections import Counter
 from BA_read_tiles import *
+import pickle as pkl
 
+known_cache = False
 
 word_master_target_dictionary = []
 with open("word_master_dictionary.txt") as f:
@@ -70,58 +72,48 @@ class Tree():
             return out
         return recur(self, 0)
 
-full_game_tree: dict[str, Tree] = dict()
-for char in 'ABCDEFGHIJKLMNOPQRSTUVWYZ':
-    with open(f"Word_Master_Tree/tree_{char}.txt", "r") as f:
-        lines = f.readlines()
-        init_word = lines[0][:5]
-        full_game_tree[char] = Tree(init_word)
-        num_lines = len(lines)
-        curr_word = full_game_tree[char]
-        curr_depth = 0
-        i = 0
-        while i < num_lines:
-            j = 6
-            while j < len(lines[i]):
-                while j < len(lines[i]) and lines[i][j] == " ":
-                    j += 13
-                if j < len(lines[i]):
-                    result = convert_to_int(lines[i][j: j + 5])
-                    if result != 682:
-                        word = lines[i][j + 7: j + 12]
-                        curr_word.add_child(result, word)
-                        curr_word = curr_word.get_children()[result]
-                        curr_depth += 1
-                j += 13
-            i += 1
-            if i < num_lines:
+if not known_cache:
+    full_game_tree: dict[str, Tree] = dict()
+    for char in 'ABCDEFGHIJKLMNOPQRSTUVWYZ':
+        with open(f"Word_Master_Tree/tree_{char}.txt", "r") as f:
+            lines = f.readlines()
+            init_word = lines[0][:5]
+            full_game_tree[char] = Tree(init_word)
+            num_lines = len(lines)
+            curr_word = full_game_tree[char]
+            curr_depth = 0
+            i = 0
+            while i < num_lines:
                 j = 6
-                new_depth = 0
-                if j < len(lines[i]):
+                while j < len(lines[i]):
                     while j < len(lines[i]) and lines[i][j] == " ":
                         j += 13
-                        new_depth += 1
-                for _ in range(curr_depth - new_depth):
-                    curr_word = curr_word.get_parent()
-                curr_depth = new_depth
-                    
+                    if j < len(lines[i]):
+                        result = convert_to_int(lines[i][j: j + 5])
+                        if result != 682:
+                            word = lines[i][j + 7: j + 12]
+                            curr_word.add_child(result, word)
+                            curr_word = curr_word.get_children()[result]
+                            curr_depth += 1
+                    j += 13
+                i += 1
+                if i < num_lines:
+                    j = 6
+                    new_depth = 0
+                    if j < len(lines[i]):
+                        while j < len(lines[i]) and lines[i][j] == " ":
+                            j += 13
+                            new_depth += 1
+                    for _ in range(curr_depth - new_depth):
+                        curr_word = curr_word.get_parent()
+                    curr_depth = new_depth
+    
+    with open("full_game_tree.pkl", "wb") as f:
+        pkl.dump(full_game_tree, f)
+else:
+    with open("full_game_tree.pkl", "rb") as f:
+        full_game_tree = pkl.load(f)
 
-
-counter = {1: 0, 2: 0, 3: 0, 4: 0, 5: 0}
-for word in word_master_target_dictionary:
-    char = word[0]
-    curr_word = full_game_tree[char]
-    while curr_word.get_value() != word:
-        curr_word = curr_word.get_children()[output(word, curr_word.get_value())]
-    counter[curr_word.depth + 1] += 1
-
-print(counter)
-points = [10000, 5000, 2500, 1000, 500]
-total = 0
-for i in range(1, 6):
-    total += counter[i] * points[i - 1]
-# print(total)
-print(total/sum(counter.values()))
 
 running = True
 if running:
