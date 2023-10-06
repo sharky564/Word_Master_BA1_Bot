@@ -1,0 +1,108 @@
+AIDES BBBBB1 ROBOT GBBBB2 RUMMY GGGGG3
+                   GBBGB2 RUMOR GGGGG3
+                   GBSBB2 RUGBY GGGGG3
+                   GGBBB2 ROUGH GGGGG3
+                   GGBGS2 ROTOR GGGGG3
+                   GGBSB2 ROOMY GGGGG3
+                   GGGGG2
+      BBBBG1 RUNTS GBBBG2 ROOKS GGGGG3
+                   GBBGG2 ROOTS GGGGG3
+                   GGBGG2 RUSTS GGGGG3
+                   GGGGG2
+                   GSBGG2 ROUTS GGGGG3
+      BBBBS1 RUSTY GGGGG2
+      BBBGB1 ROVER GBBGB2 REBEL GGBGG3 REPEL GGGGG4
+                                GGGGG3
+                   GGBGG2 ROGER GGGGG3
+                   GGGGG2
+      BBBGG1 RULES GBBGG2 ROBES GGBGG3 ROVES GGGGG4
+                                GGGGG3
+                   GBGGG2 ROLES GGGGG3
+                   GGBGG2 RUNES GGGGG3
+                   GGGGG2
+      BBBGS1 RESET GGGGG2
+      BBBSB1 RECON GGBBB2 RETRY GGGGG3
+                   GGBBG2 RERUN GGGGG3
+                   GGBGB2 REPOT GGGGG3
+                   GGBSB2 RETRO GGGGG3
+                   GGGBB2 RECUR GGGGG3
+                   GGGGG2
+      BBBSG1 REEKS GGGBG2 REELS GGGGG3
+                   GGGGG2
+      BBBSS1 REUSE GGGGG2
+      BBGBB1 RUDDY GGGGG2
+      BBGSB1 REDUX GGGGG2
+      BBSBB1 ROUND GGBBS2 ROWDY GGGGG3
+                   GGGGG2
+      BBSGB1 ROWED GBBGG2 RULED GGGGG3
+                   GGBGG2 ROBED GGBGG3 ROVED GGGGG4
+                                GGGGG3
+                   GGGGG2
+      BBSSG1 REEDS GGBGG2 RENDS GGGGG3
+                   GGGGG2
+      BGBBB1 RIGHT GGBBS2 RITZY GGGGG3
+                   GGGGG2
+      BGBBG1 RINKS GGBBG2 RIFFS GGBBG3 RIOTS GGGGG4
+                                GGGGG3
+                   GGBGG2 RICKS GGGGG3
+                   GGGBG2 RINGS GGGGG3
+                   GGGGG2
+      BGBBS1 RISKY GGGGG2
+      BGBGB1 RIPEN GGBGB2 RIVER GGGGG3
+                   GGGGG2
+      BGBGG1 RISES GGGGG2
+      BGBSB1 RIFLE GGGGG2
+      BGGGB1 RIDER GGGGG2
+      BGGGG1 RIDES GGGGG2
+      BGGSB1 RIDGE GGGGG2
+      BGSGB1 RILED GGGGG2
+      BSBBB1 RHINO GBSSS2 ROBIN GGGGG3
+                   GGGGG2
+      BSBBG1 RUINS GGGGG2
+      BSBBS1 ROSIN GGGGG2
+      BSBSB1 REMIX GGBGB2 RELIC GGBGB3 RETIE GGGGG4
+                                GGGGG3
+                   GGBGG2 REFIX GGGGG3
+                   GGGGB2 REMIT GGGGG3
+                   GGGGG2
+      BSBSG1 REINS GGGGG2
+      BSBSS1 RESIN GGGGG2
+      SBBBB1 RANCH GGGGG2
+                   GSBBB2 RURAL GGGGG3
+                   GSBGG2 ROACH GGGGG3
+      SBBBG1 ROAMS GBSBG2 RAFTS GGBBG3 RANKS GGGGG4
+                                GGGGG3
+                   GBSSG2 RAMPS GGGGG3
+                   GGGBG2 ROARS GGGGG3
+                   GGGGG2
+      SBBGB1 RARER GGBGB2 RAVEN GGGGG3
+                   GGGGG2
+      SBBGG1 RAVES GGBGG2 RACES GGBGG3 RATES GGGGG4
+                                GGGGG3
+                   GGGGG2
+      SBBSB1 RELAX GGBGB2 REBAR GGGGG3
+                   GGBSB2 REACH GGGGG3
+                   GGGGB2 RELAY GGGGG3
+                   GGGGG2
+                   GGSSB2 REALM GGGGG3
+                   GSBSB2 RANGE GGGGG3
+      SBBSG1 REARS GGGBG2 REAMS GGGBG3 REAPS GGGGG4
+                                GGGGG3
+                   GGGGG2
+      SBGBB1 RADAR GGGGG2
+      SBSBG1 ROADS GGGGG2
+      SBSGB1 TACKY BGBBB2 RAVED GGGGG3
+                   BGBBS2 RAYED GGGGG3
+                   BGBSB2 RAKED GGGGG3
+                   BGGBB2 RACED GGGGG3
+                   SGBBB2 RATED GGGGG3
+      SBSSB1 READY GGGGG2
+      SGBBB1 RIVAL GGGGG2
+      SSBBB1 RABBI GGBBS2 RATIO GGGGG3
+                   GGGGG2
+      SSBBG1 RAINS GGGGG2
+      SSGBB1 RADII GGGGB2 RADIO GGGGG3
+                   GGGGG2
+      SSSBB1 RABID GGBGG2 RAPID GGGGG3
+                   GGGGG2
+      SSSBG1 RAIDS GGGGG2

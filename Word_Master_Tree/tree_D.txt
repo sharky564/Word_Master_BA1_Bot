@@ -1,0 +1,108 @@
+TRIES BBBBB1 DOGMA GBBBS2 DANDY GGGGG3
+                   GBBGB2 DUMMY GGGGG3
+                   GBBSB2 DUMPY GGGGG3
+                   GGBBB2 DOWDY GGGGG3
+                   GGGGG2
+      BBBBG1 CLONE BBBBB2 DUSKS GGGGG3
+                   BBBGB2 DAWNS GGGGG3
+                   BBBSB2 DUNKS GGGGG3
+                   BBGBB2 DOOMS GGGGG3
+                   BBSBB2 DODOS GGGGG3
+                   BSSBB2 DOLLS GGGGG3
+                   SBBBB2 DUCKS GGGGG3
+      BBBGB1 DOLED GBBGG2 DUPED GGGGG3
+                   GGGGG2
+      BBBGG1 AMPUL BBBBB2 DOVES GGBGG3 DOZES GGGGG4
+                                GGGGG3
+                   BBBBS2 DOLES GGGGG3
+                   BBBSB2 DUDES GGBGG3 DUNES GGGGG4
+                                GGGGG3
+                   BBGBB2 DOPES GGGGG3
+                   BBGSB2 DUPES GGGGG3
+                   BSBBB2 DOMES GGGGG3
+                   SBBBB2 DAZES GGGGG3
+                   SBBBS2 DALES GGGGG3
+                   SSBBB2 DAMES GGGGG3
+      BBBSB1 DANCE GBBBG2 DELVE GGGGG3
+                   GBBBS2 DEBUG GGGGG3
+                   GBBSS2 DECOY GGGGG3
+                   GBGGG2 DUNCE GGGGG3
+                   GGGGG2
+                   GSBBS2 DELAY GGGGG3
+      BBBSG1 CLUMP BBBBB2 DEEDS GGGGG3
+                   BBBBS2 DEEPS GGGGG3
+                   BBBGB2 DEEMS GGGGG3
+                   BSBBB2 DELLS GGGGG3
+                   BSSBB2 DUELS GGGGG3
+                   SBBBB2 DECKS GGGGG3
+      BBBSS1 DENSE GBBGG2 DOUSE GGGGG3
+                   GGGGG2
+      BBGBB1 DAILY GGGGG2
+      BBGBS1 DAISY GGGGG2
+      BBGSB1 DEIGN GGGGG2
+      BBSBB1 DINGO GGGGB2 DINGY GGGGG3
+                   GGGGG2
+      BBSBG1 DIALS GGBBG2 DINGS GGBBG3 DISCS GGGGG4
+                                GGGGG3
+                   GGBGG2 DILLS GGGGG3
+                   GGGGG2
+                   GGSBG2 DIVAS GGGGG3
+      BBSBS1 DISCO GGGGG2
+      BBSGB1 DINED GGGGG2
+      BBSGG1 DICES GGGGG2
+      BBSSB1 DEVIL GGGGG2
+                   GSBSB2 DIODE GGGGG3
+      BGBBB1 DRYLY GGBBB2 DRANK GGBGG3 DRUNK GGGGG4
+                                GGGGG3
+                   GGBSB2 DROOL GGGGG3
+                   GGGGG2
+      BGBBG1 DRUGS GGGGG2
+      BGBSB1 DROVE GGBBG2 DRAPE GGGGG3
+                   GGBBS2 DREAD GGGGB3 DREAM GGGGG4
+                                GGGGG3
+                   GGGBG2 DRONE GGGGG3
+                   GGGGG2
+      BGBSG1 DREGS GGGGG2
+      BGGBB1 DRILL GGGBB2 DRINK GGGGG3
+                   GGGGG2
+      BGGBG1 DRIPS GGGGG2
+      BGGSB1 DRIVE GGGGG2
+      BGSBB1 DRUID GGGGG2
+      BSBBB1 DONOR GGBBS2 DOWRY GGGGG3
+                   GGGGG2
+      BSBBG1 DOORS GGBSG2 DORMS GGGGG3
+                   GGGGG2
+      BSBGB1 DOWER GBBGG2 DEFER GGGGG3
+                   GBBGS2 DARED GGGGG3
+                   GGBGG2 DOZER GGGGG3
+                   GGGGG2
+      BSBGG1 DARES GGGGG2
+      BSBSB1 DECOR GGGBS2 DECRY GGGGG3
+                   GGGGG2
+      BSBSG1 DEARS GGGGG2
+      BSSBG1 DIRKS GGGGG2
+      BSSGB1 DIVER GGGGG2
+      BSSSB1 DIRGE GGGGG2
+      SBBBB1 DAUNT GBSBS2 DUTCH GGGGG3
+                   GBSSG2 DONUT GGGGG3
+                   GGGGG2
+                   GSSBG2 DUCAT GGGGG3
+      SBBBG1 DOLTS GBBGG2 DUCTS GGGGG3
+                   GGGGG2
+      SBBBS1 DUSTY GGGGG2
+      SBBGG1 DOTES GGGGG2
+      SBBSB1 DEATH GGBGG2 DEPTH GGGGG3
+                   GGBSB2 DEPOT GGGGG3
+                   GGGGG2
+                   GGSGB2 DELTA GGGGG3
+                   GSBSB2 DWELT GGGGG3
+      SBBSG1 DEBTS GGGGG2
+      SBGSB1 DEITY GGGGG2
+      SBSBB1 DITCH GGGBB2 DITTY GGGGG3
+                   GGGGG2
+                   GGSBB2 DIGIT GGGGG3
+      SBSSB1 DEBIT GGGGG2
+      SBSSG1 DIETS GGGGG2
+      SGGBB1 DRIFT GGGGG2
+      SSBBG1 DARTS GGGGG2
+      SSSBB1 DIRTY GGGGG2

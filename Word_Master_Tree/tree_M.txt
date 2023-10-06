@@ -1,0 +1,100 @@
+ROSET BBBBB1 MANIA GBBBB2 MUCKY GGGGG3
+                                GGSBB3 MULCH GGGGG4
+                   GBBGB2 MIMIC GGGGG3
+                   GBBSB2 MIXUP GGGGG3
+                   GGBBG2 MAGMA GGGGG3
+                   GGGBB2 MANLY GGGGG3
+                   GGGBG2 MANNA GGGGG3
+                   GGGGB2 MANIC GGGGG3
+                   GGGGG2
+      BBBBG1 MIGHT GGGGG2
+      BBBBS1 MINTY GGGGG2
+      BBBGB1 MANED GBBGB2 MELEE GGGGG3
+                   GBBGG2 MIXED GGGGG3
+                   GBGGG2 MINED GGGGG3
+                   GGBGG2 MACED GGGGG3
+                   GGGGG2
+      BBBGS1 MATED GBGGG2 MUTED GGGGG3
+                   GGGGG2
+      BBBSB1 MAPLE GBBBS2 MEDIC GGGGG3
+                   GGGGG2
+                   GSBSS2 MEDAL GGGGG3
+      BBBSG1 MEANT GGGGG2
+      BBBSS1 METAL GGGGG2
+      BBGBB1 MASKS GBGGB2 MUSKY GGGGG3
+                   GBGGG2 MUSKS GGGGG3
+                   GGGGG2
+      BBGBS1 MISTY GBGGB2 MASTS GGGGG3
+                   GBGGG2 MUSTY GGGGG3
+                   GGGGG2
+      BBGGB1 MUSED GGGGB2 MUSES GGGGG3
+                   GGGGG2
+      BBSBB1 MULLS GBBBG2 MAIMS GBSBG3 MINDS GGGGG4
+                                GGGGG3
+                   GBBGG2 MAILS GGGGG3
+                   GBGBG2 MILKS GGGGG3
+                   GBGGG2 MALLS GGGGG3
+                   GGBBG2 MUCKS GGGGG3
+                   GGGGG2
+                   GSBBG2 MINUS GGGGG3
+      BBSBG1 MIDST GGGGG2
+      BBSBS1 MYTHS GGGGG2
+      BBSGB1 MINES GBBGG2 MACES GGBGG3 MAKES GGGGG4
+                                GGGGG3
+                   GBGGG2 MANES GGGGG3
+                   GGBGG2 MIMES GGGGG3
+                   GGGGG2
+      BBSGS1 MUTES GBGGG2 MATES GBGGG3 MITES GGGGG4
+                                GGGGG3
+                   GGGGG2
+      BBSSB1 MEADS GGGBG2 MEANS GGGGG3
+                   GGGGG2
+      BBSSS1 MEETS GGGGG2
+      BGBBB1 MOONY GGBBB2 MOCHA GGGGG3
+                   GGBBG2 MOMMY GGGGG3
+                   GGBGB2 MOUND GGGGG3
+                   GGGGG2
+      BGBBG1 MOUNT GGGGG2
+      BGBBS1 MOTIF GGGBB2 MOTTO GGGGG3
+                   GGGGG2
+      BGBGB1 MONEY GGBGB2 MOWED GGGGG3
+                   GGBGG2 MOPEY GGGGG3
+                   GGGGG2
+      BGBGS1 MOTEL GGGGG2
+      BGBSB1 MOVIE GGGGG2
+      BGGBB1 MOSSY GGGGG2
+      BGGGB1 MOSEY GGGGG2
+      BGSBB1 MOLDS GGBBS2 MOUSY GGGGG3
+                   GGGGG2
+      BGSBG1 MOIST GGGGG2
+      BGSBS1 MOATS GGBGG2 MOLTS GGGGG3
+                   GGBSG2 MOTHS GGGGG3
+                   GGGGG2
+      BGSGB1 MOPES GGGGG2
+      BGSSB1 MOOSE GGGGG2
+      BSBBB1 MANGO GGGGG2
+      BSBSB1 MELON GGGGG2
+      BSGBB1 MASON GGGGG2
+      BSSSB1 MEMOS GGGGG2
+      SBBBB1 MARRY GBGBG2 MURKY GGGGG3
+                   GBGGS2 MYRRH GGGGG3
+                   GGGGG2
+                   GSGBB2 MURAL GGGGG3
+      SBBGB1 MINER GGGGG2
+      SBBGS1 METER GBGGG2 MITER GGGGG3
+                   GGGGG2
+      SBBSB1 MERGE GGGGG2
+      SBBSG1 MERIT GGGGG2
+      SBBSS1 METRE GGGGG2
+      SBSBB1 MARSH GGGGG2
+      SBSGB1 MIRES GGGGG2
+      SGBBB1 MORON GGGBB2 MORPH GGGGG3
+                   GGGGG2
+                   GGSBB2 MOLAR GGGGG3
+      SGBBS1 MOTOR GGGGG2
+      SGBGB1 MOWER GGBGG2 MOPER GGBGG3 MOVER GGGGG4
+                                GGGGG3
+                   GGGGG2
+      SSBBB1 MANOR GBGGG2 MINOR GGGGG3
+                   GGBGG2 MAYOR GGGGG3
+                   GGGGG2

@@ -1,0 +1,188 @@
+TORES BBBBB1 MAILL BBBBB2 CHUNK GGGGG3
+                   BBBSB2 CLUNG GGGGB3 CLUNK GGGGG4
+                                GGGGG3
+                   BBGBB2 CHICK GGGGG3
+                   BBGGB2 CHILD GGGGB3 CHILI GGGGG4
+                                GGGGG3
+                   BBGGG2 CHILL GGGGG3
+                   BBGSB2 CLICK GGGGG3
+                   BBSBB2 CYNIC GGGGG3
+                   BBSBG2 CIVIL GGGGG3
+                   BGBBB2 CANDY GGGGG3
+                   BGBGB2 CAULK GGGGG3
+                   BGSBB2 CABIN GGGGG3
+                   BSBBB2 CHAFF GGGGG3
+                   BSBGB2 CHALK GGGGG3
+                   BSBSB2 CLANK GGGGG3
+                   BSSBB2 CHAIN GGGGG3
+                   BSSSB2 CILIA GGGGG3
+                   SBBBB2 CHUMP GGGGG3
+                   SBBSB2 CLUMP GGGGG3
+                   SBGBB2 CHIMP GGGGG3
+                   SBSBB2 CUMIN GGGGG3
+                   SSBSB2 CLAMP GGGGG3
+                   SSSSB2 CLAIM GGGGG3
+      BBBBG1 PLASM BBBSB2 CUFFS GGGGG3
+                   BBBSS2 CHUMS GGGGG3
+                   BBGSB2 CHADS GGGGG3
+                   BBSSB2 CASKS GGGGG3
+                   BGBSB2 CLUBS GGGGG3
+                   BGGGB2 CLASS GGGGG3
+                   BGGSB2 CLANS GGGBG3 CLAWS GGGGG4
+                                GGGGG3
+                   BGGSS2 CLAMS GGGGG3
+                   SBBSB2 CHIPS GGGGG3
+                   SBSSS2 CAMPS GGGGG3
+                   SGBSB2 CLIPS GGGGG3
+                   SGGSB2 CLAPS GGGGG3
+      BBBBS1 CLASH GGGGB2 CLASP GGGGG3
+                   GGGGG2
+      BBBGB1 PULIK BBBBB2 CAGED GGGGG3
+                   BBBBG2 CHEEK GGGGG3
+                   BBBBS2 CAKED GGGGG3
+                   BBBSB2 CHIEF GGGGG3
+                   BBSBB2 CAMEL GGGGG3
+                   BGBBB2 CUBED GGGGG3
+                   BSSBB2 CLUED GGGGG3
+                   SBBBB2 CAPED GGGGG3
+      BBBGG1 CAFES GBBGG2 CLUES GGGGG3
+                   GGBGG2 CAPES GGGGG3
+                   GGGGG2
+      BBBGS1 CASED GGGGG2
+      BBBSB1 AHEAD BBGGB2 CLEAN GGGGG3
+                   BBSBB2 CYCLE GGGGG3
+                   BGGBB2 CHEWY GGGGG3
+                   BGGGB2 CHEAP GGGGG3
+                   BGSBB2 CHIME GGGBG3 CHIVE GGGGG4
+                                GGGGG3
+                   BGSBS2 CHIDE GGGGG3
+                   SBSBB2 CABLE GGGGG3
+                   SGSBB2 CHAFE GGGGG3
+                   SSSBB2 CACHE GGGGG3
+      BBBSG1 CHEWS GGGGG2
+      BBBSS1 CAUSE GGGGG2
+                   GSBGG2 CEASE GGGGG3
+      BBGBB1 CARRY GBGBG2 CURLY GGGGG3
+                   GGGGG2
+                   GSGBB2 CIRCA GGGGG3
+      BBGBG1 CURLS GGGBG2 CURBS GGGBG3 CURDS GGGGG4
+                                GGGGG3
+                   GGGGG2
+      BBGGB1 CARED GBGGG2 CURED GGGGG3
+                   GGGGG2
+      BBGGG1 CURES GGGGG2
+      BBGSB1 CURVE GGGGG2
+      BBGSS1 CURSE GGGGG2
+      BBSBB1 CRANK GGBBB2 CRIMP GGGGG3
+                   GGBBG2 CRICK GGGGG3
+                   GGGBG2 CRACK GGGGG3
+                   GGGGG2
+                   GSBBB2 CHIRP GGGGG3
+                   GSBSB2 CHURN GGGGG3
+                   GSSBB2 CIGAR GGGGG3
+      BBSBG1 CRABS GGBGG2 CRIBS GGGGG3
+                   GGGBG2 CRAGS GGGGG3
+                   GGGGG2
+                   GSGBG2 CZARS GGGGG3
+      BBSBS1 CRASH GGBGB2 CRISP GGGGG3
+                   GGGGG2
+      BBSGB1 CREED GGBGB2 CRIER GGBGB3 CRUEL GGGGG4
+                                GGGGG3
+                   GGGGB2 CREEK GGGGB3 CREEP GGGGG4
+                                GGGGG3
+                   GGGGG2
+                   GSBGB2 CAPER GGGGG3
+                   GSBGS2 CIDER GGGGG3
+                   GSGGB2 CHEER GGGGG3
+      BBSGG1 CRIES GGGGG2
+      BBSSB1 AVOID BBBBB2 CREPE GGGGG3
+                   BBBBS2 CRUDE GGGGG3
+                   BBBSB2 CRIME GGGGG3
+                   SBBBB2 CRAZE GGGGG3
+                   SSBBB2 CRAVE GGGGG3
+      BBSSG1 CREWS GGGGG2
+      BGBBB1 GLADY BBBBB2 COMBO GGGBB3 COMIC GGGGG4
+                                GGGGG3
+                   BBBBG2 COCKY GGGGG3
+                   BBBGB2 CONDO GGGGG3
+                   BBGBB2 COACH GGGGG3
+                   BBSBB2 COMMA GGGGG3
+                   BSBBG2 COYLY GGGGG3
+                   BSBSB2 COULD GGGGG3
+                   SBBBB2 CONGO GGBGB3 COUGH GGGGG4
+                                GGGGG3
+                   SBSBB2 CONGA GGGGG3
+      BGBBG1 PILAF BBBBB2 COOKS GGGGG3
+                   BBBGB2 COMAS GGGGG3
+                   BBGBB2 COLDS GGGGG3
+                   BBSBB2 COWLS GGGGG3
+                   BBSSB2 COALS GGGGG3
+                   BSBBB2 COINS GGGGG3
+                   BSBBS2 COIFS GGGGG3
+                   SBBBB2 COUPS GGGGG3
+      BGBGB1 COOED GGBGB2 COVEN GGGGG3
+                   GGBGG2 COPED GGGGG3
+                   GGBGS2 CODEX GGGGG3
+                   GGGGG2
+      BGBGG1 DAVEN BBBGB2 COPES GGGGG3
+                   BBBGS2 CONES GGGGG3
+                   BBGGB2 COVES GGGGG3
+                   SBBGB2 CODES GGGGG3
+      BGBSG1 COEDS GGGGG2
+      BGGBB1 CORAL GGGGG2
+      BGGBG1 CORNS GGGBG2 CORPS GGGGG3
+                   GGGGG2
+      BGGGB1 CORED GGGGB2 CORER GGGGG3
+                   GGGGG2
+      BGGGG1 CORES GGGGG2
+      BGSBB1 COBRA GGBSB2 COLOR GGGGG3
+                   GGGGG2
+      BGSGB1 CODER GGGGG2
+      BSBBB1 CLOAK GBGBB2 CHOMP GGGGG3
+                   GGGBB2 CLOWN GGGGG3
+                   GGGGG2
+      BSBBG1 CLODS GBGBG2 CHOWS GGGGG3
+                   GGGBG2 CLOGS GGGGG3
+                   GGGGG2
+      BSBGB1 CAMEO GGGGG2
+      BSBSB1 CELLO GGGGG2
+                   GSBBS2 CHOKE GGGGG3
+                   GSSBS2 CLOVE GGGGG3
+      BSBSS1 CLOSE GGGGG2
+      BSGBB1 CARGO GGGGG2
+      BSSBB1 CROWN GGGBB2 CROCK GGGGG3
+                   GGGBG2 CROON GGGGG3
+                   GGGBS2 CRONY GGGGG3
+                   GGGGB2 CROWD GGGGG3
+                   GGGGG2
+      BSSBG1 CROPS GGGBG2 CROSS GGGGG3
+                   GGGGG2
+      BSSSB1 CHORE GGGGG2
+      SBBBB1 CACTI GGBGB2 CATTY GGGGG3
+                   GGGGG2
+                   GGSSB2 CATCH GGGGG3
+                   GSBSB2 CHANT GGGGG3
+      SBBBG1 CYSTS GBBGG2 CHATS GBBGG3 CULTS GGGGG4
+                                GGGGG3
+                   GGGGG2
+      SBBGB1 CUTEY GGGGG2
+      SBBGG1 CITES GGGGG2
+      SBBSB1 CLEFT GGGGG2
+      SBBSG1 CENTS GGGGG2
+      SBBSS1 CASTE GBSSS2 CHEST GGGGG3
+                   GGGGG2
+      SBGBB1 CARAT GGGGG2
+      SBSBB1 CRAFT GGGGG2
+      SBSBS1 CRUST GGGGG2
+      SBSGB1 CATER GBGGG2 CUTER GGGGG3
+                   GGGGG2
+      SBSSB1 CREPT GGGGG2
+      SGBBB1 COUNT GGGGG2
+      SGBBG1 COSTS GGBGG2 COATS GGBGG3 COLTS GGGGG4
+                                GGGGG3
+                   GGGGG2
+      SGBBS1 COAST GGGGG2
+      SGBGB1 COVET GGGGG2
+      SSBBB1 CLOTH GGGGG2
+                   GGGSB2 CLOUT GGGGG3
+      SSBBG1 CLOTS GGGGG2
