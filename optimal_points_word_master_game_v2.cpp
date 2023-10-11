@@ -236,7 +236,6 @@ std::tuple<int, int> compute_value_function(int t,
         for (auto it = test_words_order_pair.begin(); it != test_words_order_pair.end(); it++) {
             test_words_order.push_back(it->second);
         }
-        test_words_order.resize(10);
     }
     for (auto it = test_words_order.begin(); it != test_words_order.end(); it++) {
         if (t == 0) {
