@@ -1,0 +1,92 @@
+GLIME BBBBB1 AUTOS GBBBB2 ABACK GGGGG3
+                   GBBSB2 ACORN GGGGG3
+                   GBBSG2 AVOWS GGGGG3
+                   GBBGB2 APRON GGGGG3
+                   GBSBB2 ADAPT GGGGG3
+                   GBSBS2 AVAST GGGGG3
+                   GBSSB2 ABORT GBSSS3 AORTA GGGGG4
+                                GGGGG3
+                   GBSGB2 AFOOT GGGGG3
+                   GBGBS2 ARTSY GGGGG3
+                   GBGGB2 ACTOR GGGGG3
+                   GSSBG2 ABUTS GGGGG3
+                   GSSSB2 ABOUT GGGGG3
+                   GGGGG2
+      BBBBS1 RUTHS BBBBB2 ANNEX GBBGB3 ADDED GGGGG4
+                                GGGGG3
+                   BBBBS2 ASKEW GGGGG3
+                   BBBSB2 ACHED GGGGG3
+                   BBBSS2 ASHEN GGGGG3
+                   BBBSG2 ASHES GGGGG3
+                   BBSBB2 ADEPT GGGGG3
+                   BBSBS2 ASSET GGGGG3
+                   BBSBG2 ABETS GGGGG3
+                   BBGBB2 ACTED GGGGG3
+                   SBBBB2 ADDER GGGGG3
+                   SBBBG2 AREAS GGGGG3
+                   SBSBB2 AVERT GGGGG3
+      BBBBG1 WOADS BBSBB2 ACUTE GGGGG3
+                   BBSBS2 ABUSE GGGGG3
+                   BBGBB2 ABATE GGGGG3
+                   BSSBB2 ABOVE GGGGG3
+                   BSSBS2 AROSE GGGGG3
+                   BSSSB2 ADOBE GGGGG3
+                   BSSGB2 ABODE GGGGG3
+                   SBGBB2 AWAKE GGGGG3
+                   SSSBB2 AWOKE GGGGG3
+      BBBSB1 AMUCK GSBBB2 ARMOR GGGGG3
+                   GGGGG2
+      BBBSS1 AMEND GGSBB2 AMBER GGGGG3
+                   GGGGG2
+      BBBSG1 AMUSE GGGGG2
+      BBBGB1 ATOMS GBGGB2 AROMA GGGGG3
+                   GGGGG2
+      BBSBB1 AUDIO GBBGB2 ANTIC GGGGG3
+                   GBSGB2 ACRID GGGGG3
+                   GBSGS2 AVOID GGGGG3
+                   GGGGB2 AUDIT GGGGG3
+                   GGGGG2
+      BBSBS1 AIDES GGGGG2
+      BBSSS1 AIMED GGGGG2
+      BBGBB1 AXION GGGGG2
+      BBGBG1 ARISE GBGBG2 ABIDE GGGGG3
+                   GBGGG2 ANISE GGGGG3
+                   GSGBG2 AFIRE GGGGG3
+                   GGGGG2
+      BBGSB1 AMISS GGGGG2
+      BSBBB1 ANNUL GBBBS2 APPLY GGGGG3
+                   GBBSG2 AURAL GGGGG3
+                   GBBGG2 AWFUL GGGGG3
+                   GGGGG2
+      BSBBG1 ANKLE GGGGG2
+      BSBSB1 AMPLY GGGGG2
+      BSBSG1 AMPLE GGGGG2
+      BSSBB1 ANVIL GGGGG2
+      BSSBS1 AILED GGGGG2
+      BSSBG1 AISLE GGGGG2
+      BGBBB1 ALOFT GGGBB2 ALOUD GGGGG3
+                   GGGSB2 ALOOF GGGGG3
+                   GGGGG2
+      BGBBS1 ALLEY GGGGG2
+      BGBBG1 ALONE GGGGG2
+      BGBSB1 ALARM GGGGG2
+      BGGBB1 ALIBI GGGBB2 ALIAS GGGGG3
+                   GGGGG2
+      BGGBG1 ALIVE GGGBG2 ALIKE GGGGG3
+                   GGGGG2
+      SBBBS1 ANGER GSSSB2 AGENT GGGGG3
+                   GGGGG2
+      SBBBG1 AGAZE GSBBG2 ARGUE GGGGG3
+                   GGGBG2 AGAPE GGGBG3 AGAVE GGGGG4
+                                GGGGG3
+                   GGGGG2
+      SBBSB1 AMONG GGGGG2
+      SBSBB1 AGAIN GGGGG2
+      SBGBB1 AGING GGGGG2
+      SSBBB1 AGLOW GGGGG2
+      SSBBS1 ANGEL GGGGG2
+      SSBBG1 ANGLE GGGGG2
+      SSGBG1 AGILE GGGGG2
+      SGBBB1 ALONG GGGGG2
+      SGBBG1 ALGAE GGGGG2
+      SGGBB1 ALIGN GGGGG2

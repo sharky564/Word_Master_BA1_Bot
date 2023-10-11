@@ -1,0 +1,157 @@
+SIREN BBBBB1 SCUDO BBBBB2 TAFFY GGBBG3 TABBY GGGGG4
+                                GGGGG3
+                   BBBBS2 TOPAZ GGGGG3
+                   BBBBG2 TABOO GGGGG3
+                   BBBSS2 TODAY GGGGG3
+                   BBBGS2 TOADY GGGGG3
+                   BBSBB2 TUMMY GGGGG3
+                   BBGBB2 THUMB GGGGG3
+                   BBGBS2 TOUGH GGGGG3
+                   BSBBB2 TACKY GGGGG3
+                   BSGBS2 TOUCH GGGGG3
+      BBBBS1 TAUNT GSBSB2 TONAL GGGGG3
+                   GSBGB2 TWANG GGGGG3
+                   GGBSB2 TANGY GGGGG3
+                   GGBGB2 TAWNY GGGGG3
+                   GGGGG2
+      BBBBG1 TALON GGGGG2
+      BBBSB1 TEACH GSSBB2 TAUPE GGGGG3
+                   GGBBB2 TEMPO GGGGG3
+                   GGGGG2
+      BBBGB1 TOWED GBBGG2 TAXED GBBGG3 TUBED GGGGG4
+                                GGBGG3 TAPED GGGGG4
+                                GGGGG3
+                   GBSGB2 TWEET GGGGG3
+                   GGBGB2 TOTEM GGGGG3
+                   GGBGG2 TOTED GGGGG3
+                   GGGGB2 TOWEL GGGGG3
+                   GGGGG2
+      BBBGS1 TONED GBGGG2 TUNED GGGGG3
+                   GGGGG2
+      BBBGG1 TAKEN GGGGG2
+      BBSBB1 CLOUT BBBBS2 TRAMP GGGGG3
+                   BBBSS2 TRUTH GGGGG3
+                   BBSSS2 TUMOR GGGGG3
+                   BBGBS2 TROOP GGGGG3
+                   BBGGG2 TROUT GGGGG3
+                   BSBSS2 TRULY GGGGG3
+                   BSGBS2 TROLL GGGGG3
+                   SBBBS2 TRACK GGGGG3
+                   SBBBG2 TRACT GGGGG3
+                   SBBSS2 TRUCK GGGGG3
+      BBSBS1 TRUNK GGGGG2
+      BBSBG1 THORN GGGGG2
+      BBSSB1 TREAD GSSSB2 TEARY GGGGG3
+                   GSGBB2 THERE GGGGG3
+                   GGSBB2 TROVE GGGGG3
+                   GGSSS2 TRADE GGGGG3
+                   GGGGG2
+      BBSSS1 TENOR GGGGG2
+      BBSGB1 WHUMP BBBBB2 TATER GGBGG3 TAKER GGGGG4
+                                GGGGG3
+                   BBBBS2 TAPER GGGGG3
+                   BBBSB2 TAMER GGGGG3
+                   BBSBB2 TUBER GGGGG3
+                   BBGBB2 TRUER GGGGG3
+      BBSGS1 TONER GGGGG2
+      BBGBB1 TAROT GBGGB2 THROB GGGGG3
+                   GGGGG2
+      BBGSB1 TORTE GSGBG2 THROE GGGGG3
+                   GGGGG2
+      BBGGB1 THREE GGGGB2 THREW GGGGG3
+                   GGGGG2
+      BSBBB1 TACIT GBBSB2 TWILL GGGGG3
+                   GBSGB2 TOXIC GGGGG3
+                   GGGGG2
+      BSBBS1 THING GBSSB2 TUNIC GGGGG3
+                   GBGGB2 TAINT GGGGG3
+                   GGGGB2 THINK GGGGG3
+                   GGGGG2
+      BSBBG1 TOXIN GGGGG2
+      BSBSB1 TWICE GGGGG2
+      BSBSS1 TWINE GBGGG2 THINE GGGGG3
+                   GGGGG2
+      BSBGB1 THIEF GGGGG2
+      BSSBB1 TRAIL GSBSG2 TWIRL GGGGG3
+                   GGBSB2 TRICK GGGGG3
+                   GGSSG2 TRIAL GGGGG3
+                   GGGGG2
+      BSSSB1 TRITE GGGBG2 TRIBE GGGBG3 TRIPE GGGGG4
+                                GGGGG3
+                   GGGGG2
+      BGBBB1 TIMID GGBBB2 TIZZY GGBBG3 TIPPY GGGGG4
+                                GGGGG3
+                   GGBBS2 TIDAL GGGGG3
+                   GGBGB2 TIBIA GGGGG3
+                   GGGGG2
+      BGBBS1 TINNY GGGGG2
+      BGBBG1 TITAN GGGGG2
+      BGBSB1 TITLE GGBSG2 TILDE GGGGG3
+                   GGGBG2 TITHE GGGGG3
+                   GGGGG2
+      BGBSS1 TINGE GGGGG2
+      BGBGB1 TIMED GGBGG2 TILED GGGGG3
+                   GGGGG2
+      BGBGS1 TINED GGGGG2
+      BGSGB1 TIGER GGGGG2
+      BGGGB1 TIRED GGGGG2
+      SBBBB1 TOAST GBBSB2 TUCKS GGGGG3
+                   GBBSS2 TUFTS GGGGG3
+                   GBSSB2 TACKS GGGGG3
+                   GBSSS2 TASTY GGGGG3
+                   GGBSB2 TOMBS GGBBG3 TOLLS GGGGG4
+                                GGGGG3
+                   GGGSB2 TOADS GGGGG3
+                   GGGGG2
+      SBBBS1 TOWNS GBBSG2 TANKS GGGGG3
+                   GGBSG2 TONGS GGGGG3
+                   GGGGG2
+      SBBSB1 TELLS GGBBS2 TESTY GGGGG3
+                   GGBBG2 TEMPS GGGGG3
+                   GGGGG2
+      SBBSS1 TEENS GGSSS2 TENSE GGGGG3
+                   GGGGG2
+      SBBGB1 PUKKA BBBBB2 TOTES GGBGG3 TOMES GGGGG4
+                                GGGGG3
+                   BBBBS2 TAXES GGGGG3
+                   BBGBB2 TYKES GGGGG3
+                   BBGBS2 TAKES GGGGG3
+                   BGBBB2 TUBES GGBGG3 TUXES GGGGG4
+                                GGGGG3
+                   SBBBB2 TYPES GGGGG3
+                   SBBBS2 TAPES GGGGG3
+      SBBGS1 TONES GBGGG2 TUNES GGGGG3
+                   GGGGG2
+      SBSBB1 TRAPS GSBBG2 TOURS GGGGG3
+                   GSGBG2 TSARS GGGGG3
+                   GGBBS2 TRUST GGGGG3
+                   GGBBG2 TRUSS GGBBG3 TROTS GGGGG4
+                                GGGGG3
+                   GGGBS2 TRASH GGGGG3
+                   GGGBG2 TRAYS GGGBG3 TRAMS GGGGG4
+                                GGGGG3
+                   GGGGG2
+      SBSSB1 TEARS GSBSG2 TREKS GGGGG3
+                   GGGGG2
+      SBSGB1 TREES GGGGG2
+      SBGBB1 TARTS GBGBS2 TORSO GGGGG3
+                   GGGGG2
+      SBGSB1 TERSE GGGGG2
+      SSBBB1 TAILS GBGBG2 TWIGS GGGGG3
+                   GBGGG2 TOILS GGGGG3
+                   GGSBG2 TAXIS GGGGG3
+                   GGGGG2
+      SSBBS1 THINS GBGGG2 TWINS GGGGG3
+                   GGGGG2
+      SSSBB1 TRIOS GGGBG2 TRIMS GGGGG3
+                   GGGGG2
+      SSSGB1 TRIES GGGGG2
+      SGBBB1 TILTS GGBBS2 TIPSY GGGGG3
+                   GGBBG2 TICKS GGGGG3
+                   GGGBG2 TILLS GGGGG3
+                   GGGGG2
+      SGBGB1 TIMES GGBGG2 TILES GGGGG3
+                   GGGGG2
+      SGBGS1 TINES GGGGG2
+      SGSSB1 TIERS GGGGG2
+      SGGGB1 TIRES GGGGG2

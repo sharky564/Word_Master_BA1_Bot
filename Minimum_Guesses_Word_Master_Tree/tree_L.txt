@@ -1,0 +1,96 @@
+MARES BBBBB1 TYPIC BBBBS2 LUNCH GGGGG3
+                   BBBGB2 LIVID GGGGG3
+                   BBBGS2 LUCID GGGGG3
+                   BBGGB2 LIPID GGGGG3
+                   BSBBB2 LOBBY GGGGG3
+                   BSBBS2 LUCKY GGGGG3
+                   BSSBB2 LOOPY GGGGG3
+                   BGBSB2 LYING GGGGG3
+                   SBBSB2 LIGHT GGGGG3
+                   SSBBB2 LOFTY GGGGG3
+      BBBBS1 LOUSY GGGGG2
+      BBBBG1 UNLIT BBSBB2 LOGOS GGBSG3 LOOKS GGGGG4
+                                GGGGG3
+                   BBSSB2 LICKS GGGGG3
+                   BBSSS2 LISTS GGGGG3
+                   BBGSS2 LILTS GGGGG3
+                   BSSBB2 LOONS GGGGG3
+                   BSSSB2 LOINS GGGGG3
+                   SBSBB2 LUCKS GGGGG3
+                   SBSBS2 LOTUS GGGGG3
+      BBBSB1 LEDGE GBBGG2 LUNGE GGGGG3
+                   GBGGG2 LODGE GGGGG3
+                   GSBGG2 LIEGE GGGGG3
+                   GGBBB2 LEFTY GGGGG3
+                   GGBSB2 LEGIT GGGGG3
+                   GGBGB2 LEGGY GGGGG3
+                   GGGGG2
+      BBBSS1 LOUSE GGGGG2
+      BBBGB1 VINYL BBBBS2 LOBED GGGGG3
+                   BGBBS2 LIKED GGGGG3
+                   BGBBG2 LIBEL GGGGG3
+                   BGSBS2 LIKEN GGGGG3
+                   BGGBS2 LINED GGGGG3
+                   SBBBS2 LOVED GGGGG3
+                   SBBBG2 LEVEL GGGGG3
+                   SGBBS2 LIVED GGGGG3
+                   SGSBS2 LIVEN GGGGG3
+      BBBGG1 VOIDS BBBBG2 LUGES GGGGG3
+                   BBSBG2 LINES GGGGG3
+                   BGBBG2 LOSES GGGGG3
+                   BGBSG2 LODES GGGGG3
+                   SBSBG2 LIVES GGGGG3
+                   SGBBG2 LOVES GGGGG3
+      BBSSB1 LEERY GGGGG2
+      BBSSG1 LEERS GGGGG2
+      BBSGB1 LEVER GBBGG2 LUGER GGGGG3
+                   GBGGG2 LOVER GGGGG3
+                   GGGGG2
+      BBSGS1 LOSER GGGGG2
+      BBGBB1 LYRIC GBGBS2 LURCH GGGGG3
+                   GGGGG2
+      BBGBG1 LORDS GBGBG2 LURKS GGGGG3
+                   GGGGG2
+      BBGGB1 LURED GGGGG2
+      BBGGG1 LYRES GGGGG2
+      BSBBB1 LOYAL GGBGG2 LOCAL GGGGG3
+                   GGGGG2
+      BSBBG1 LOANS GGGGG2
+      BSBSB1 LEAKY GGSBB2 LEGAL GGGGG3
+                   GGGBB2 LEAVE GGGGG3
+                   GGGBG2 LEAFY GGGGG3
+                   GGGGG2
+      BSBSS1 LEASH GGGGB2 LEAST GGGGG3
+                   GGGGG2
+      BSBSG1 LEAPS GGGBG2 LEAFS GGGGG3
+                   GGGGG2
+      BSSSB1 LEARN GGGGB2 LEARY GGGGG3
+                   GGGGG2
+      BGBBB1 LANKY GGGGG2
+      BGBBS1 LASSO GGGGG2
+      BGBBG1 LANDS GGBBG2 LACKS GGGGG3
+                   GGSBG2 LAWNS GGGGG3
+                   GGGGG2
+      BGBSB1 LATTE GGGGG2
+      BGBSS1 LAPSE GGGGG2
+      BGBGB1 LABEL GGBGB2 LAYED GGBGG3 LACED GGGGG4
+                                GGGGG3
+                   GGBGG2 LAPEL GGGGG3
+                   GGGGG2
+      BGBGG1 LACES GGBGG2 LAKES GGGGG3
+                   GGGGG2
+      BGSBB1 LABOR GGGGG2
+      BGSBG1 LAIRS GGGGG2
+      BGSGB1 LATER GGGGG2
+      BGSGS1 LASER GGGGG2
+      BGGBB1 LARVA GGGGG2
+      SBBBB1 LIMIT GGGGG2
+      SBBBG1 LIMBS GBSBG2 LOOMS GGGGG3
+                   GBGBG2 LUMPS GGGGG3
+                   GGGGG2
+      SBBGB1 LIMED GGGGG2
+      SBBGG1 LIMES GGGGG2
+      SBSSB1 LEMUR GGGGG2
+      SSBBB1 LLAMA GGGGG2
+      SGBBG1 LAMBS GGGGG2
+      SGSGB1 LAMER GGGGG2

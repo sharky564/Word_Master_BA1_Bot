@@ -1,0 +1,146 @@
+ARLES BBBBB1 POINT GBBBB2 PUFFY GBBBG3 PYGMY GGGGG4
+                                GGBBG3 PUDGY GGGGG4
+                                GGGGG3
+                   GBBBS2 PUTTY GGGGG3
+                   GBBSB2 PUNCH GGGGG3
+                   GBBGB2 PUNNY GGGGG3
+                   GBSBB2 PIGGY GGGGG3
+                   GBSBS2 PITCH GGGGG3
+                   GBSSB2 PINKY GGGGG3
+                   GSBGB2 PHONY GGGGG3
+                   GSSBG2 PIVOT GGGGG3
+                   GSSSS2 PINTO GGGGG3
+                   GGBBB2 POOCH GGGGG3
+                   GGBGB2 POUND GGGGG3
+                   GGGGG2
+      BBBBS1 PUSHY GGGGG2
+      BBBBG1 UNFIT BBBBS2 POSTS GGGGG3
+                   BBBSB2 PICKS GGGGG3
+                   BBSBB2 POOFS GGGGG3
+                   BSBBB2 PONDS GGGGG3
+                   BSBSB2 PINGS GGGGG3
+                   SBBBB2 PUCKS GGBBG3 PUMPS GGGGG4
+                                GGGGG3
+                   SBBBS2 PUTTS GGGGG3
+                   SBGBB2 PUFFS GGGGG3
+      BBBSB1 PIETY GBSBB2 PENCE GGGGG3
+                   GBSBG2 PEPPY GGBBG3 PENNY GGGGG4
+                                GGGGG3
+                   GBSGG2 PETTY GGGGG3
+                   GGGBB2 PIECE GGGGG3
+                   GGGGG2
+      BBBSS1 POISE GSBSS2 PESTO GGGGG3
+                   GGBGG2 POSSE GGGGG3
+                   GGGGG2
+      BBBSG1 POETS GBGBG2 PEEPS GGGGG3
+                   GGGBG2 POEMS GGGGG3
+                   GGGGG2
+      BBBGB1 ZONKS BBBBB2 PIPED GGGGG3
+                   BBBSB2 PIKED GGGGG3
+                   BBGBB2 PINED GGGGG3
+      BBBGG1 SKINS BBBBG2 POPES GGBGG3 POXES GGGGG4
+                                GGGGG3
+                   BBSBG2 PIPES GGGGG3
+                   BBSSG2 PINES GGGGG3
+                   BSBBG2 POKES GGGGG3
+                   SBBBG2 POSES GGGGG3
+      BBSBB1 PLUCK GGGGG2
+      BBSBS1 PLUSH GGGGG2
+      BBSBG1 ZLOTY BSGBB2 POOLS GGGGG3
+                   BGBBB2 PLUMS GGGGG3
+                   BGGBB2 PLOPS GGGGG3
+                   BGGBS2 PLOYS GGGGG3
+                   BGGGB2 PLOTS GGGGG3
+      BBSSB1 PLUME GGGGG2
+      BBSSG1 PEELS GGGGG2
+      BBSGB1 PIXEL GGGGG2
+      BBSGG1 PLIES GGGGG2
+      BBGBB1 POLIO GSGSB2 PILOT GGGGG3
+                   GGGGG2
+      BBGBG1 POLLS GBGBG2 PULPS GGGGG3
+                   GBGGG2 PULLS GGGGG3
+                   GGGGG2
+      BBGSS1 PULSE GGGGG2
+      BBGSG1 PELTS GGGGG2
+      BBGGG1 PILES GGGGG2
+      BSBBB1 PORKY GGGBB2 PORCH GGGGG3
+                   GGGGG2
+      BSBBG1 POURS GBSGG2 PURRS GGGGG3
+                   GGGGG2
+      BSBSB1 PURGE GBGBS2 PERKY GGGGG3
+                   GGGGG2
+      BSBSS1 PURSE GGGGG2
+      BSBSG1 PIERS GGGGG2
+      BSBGB1 POKER GBBGS2 PUREE GGGGG3
+                   GBBGG2 PETER GGGGG3
+                   GGBGS2 PORED GGGGG3
+                   GGGGG2
+      BSBGS1 POSER GGGGG2
+      BSBGG1 PORES GBGGG2 PYRES GGGGG3
+                   GGGGG2
+      BSSGB1 PLIER GGGGG2
+      BGBBB1 VROOM BGBBB2 PRINT GGGGG3
+                   BGBBS2 PRIMP GGGGG3
+                   BGBGB2 PRIOR GGGGG3
+                   BGGBB2 PROUD GGGGG3
+                   BGGGB2 PROOF GGGGG3
+                   SGBBB2 PRIVY GGGGG3
+      BGBBS1 PRISM GGGGG2
+      BGBBG1 PROPS GGGGG2
+      BGBSB1 ZOMBI BBBBB2 PRUDE GGGGG3
+                   BBBBS2 PRICE GGGGG3
+                   BBSBS2 PRIME GGGGG3
+                   BSBBB2 PROVE GGGGG3
+                   BSBGB2 PROBE GGGGG3
+                   SBBBS2 PRIZE GGGGG3
+      BGBSS1 PROSE GGGGG2
+      BGBSG1 PRESS GGGBG2 PREYS GGGGG3
+                   GGGGG2
+      BGBGB1 PRIED GGGGG2
+      SBBBB1 PANIC GSBBS2 POACH GGGGG3
+                   GSBSB2 PIZZA GGGGG3
+                   GGBBB2 PATTY GGGGG3
+                   GGBBS2 PATCH GGGGG3
+                   GGBGB2 PATIO GGGGG3
+                   GGGBB2 PANDA GGGGG3
+                   GGGGG2
+      SBBBS1 PANSY GGGGG2
+      SBBBG1 PAWNS GGBBG2 PACKS GGGGG3
+                   GGGGG2
+      SBBSB1 PEACE GGSSB2 PECAN GGGGG3
+                   GGGGB2 PEACH GGGGG3
+                   GGGGG2
+      SBBSS1 PASTE GSSBG2 PHASE GGGGG3
+                   GGSBG2 PAUSE GGGGG3
+                   GGGGG2
+      SBBSG1 PEAKS GGGGG2
+      SBBGB1 PANED GGBGG2 PAGED GGGGG3
+                   GGGGG2
+      SBBGG1 PAVES GGBGG2 PANES GGGGG3
+                   GGGGG2
+      SBSBB1 WITAN BBBSB2 PLAZA GGGGG3
+                   BBBSS2 PLANK GGGGG3
+                   BBSSS2 PLANT GGGGG3
+                   BSBSB2 PLAID GGGGG3
+                   BSBSG2 PLAIN GGGGG3
+      SBSBS1 PSALM GGGGG2
+      SBSBG1 PLANS GGGGG2
+      SBSSB1 PLEAD GSSGS2 PEDAL GGGGG3
+                   GGGGG2
+      SBSSG1 PLEAS GGGGG2
+      SBSGB1 PANEL GGGGG2
+      SBGBS1 PALSY GGGGG2
+      SBGBG1 PALMS GGGGG2
+      SBGGG1 PALES GGGGG2
+      SSBBB1 PARKA GGGGG2
+      SSBBG1 PARTS GGGBG2 PARKS GGGGG3
+                   GGGGG2
+      SSBSB1 PADRE GGGGG2
+      SSBSS1 PARSE GGGGG2
+      SSBGB1 PAGER GGBGS2 PARED GGGGG3
+                   GGBGG2 PAPER GGGGG3
+                   GGGGG2
+      SSGBB1 POLAR GGGGG2
+      SSGGB1 PALER GGGGG2
+      SGBBB1 PRAWN GGGGG2
+      SGBBG1 PRAYS GGGGG2

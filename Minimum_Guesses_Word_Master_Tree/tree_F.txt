@@ -1,0 +1,120 @@
+TRIES BBBBB1 YULAN BBSBB2 FLOOD GGGGG3
+                   BBSSB2 FLACK GGGGG3
+                   BBSSS2 FLANK GGGGG3
+                   BSBBS2 FOUND GGGGG3
+                   BSBSS2 FAUNA GGGGG3
+                   BSSBB2 FLUFF GGGGG3
+                   SBBSB2 FOAMY GGGGG3
+                   SBSBB2 FLYBY GGGGG3
+                   SGBBB2 FUZZY GGGGG3
+                   SGGBB2 FULLY GGGGG3
+      BBBBS1 FLASH GGBGG2 FLUSH GGGGG3
+                   GGGGG2
+      BBBBG1 CLASP BBBSB2 FUNDS GGGGG3
+                   BBSSB2 FAWNS GGGGG3
+                   BBGSB2 FOAMS GGGGG3
+                   BSBSB2 FOLKS GGGBG3 FOLDS GGGGG4
+                                GGGGG3
+                   BSSSB2 FALLS GGGGG3
+                   BSGSB2 FOALS GGGGG3
+                   BGBSB2 FLOGS GGGGG3
+                   BGBSS2 FLOPS GGGGG3
+                   BGBGB2 FLOSS GGGGG3
+                   BGGSB2 FLAGS GGGGG3
+                   BGGSS2 FLAPS GGGGG3
+                   SBBSB2 FOCUS GGGGG3
+      BBBSB1 FLUKE GBBBG2 FEMME GGGGG3
+                   GSBBS2 FELON GGGGG3
+                   GSBBG2 FABLE GGGGG3
+                   GGBSS2 FLECK GGGGG3
+                   GGGGG2
+      BBBSS1 FLESH GSSGB2 FALSE GGGGG3
+                   GGGGG2
+      BBBSG1 FEELS GBGGG2 FUELS GGGGG3
+                   GGGBG2 FEEDS GGGGG3
+                   GGGGG2
+      BBBGB1 CODEX BBSGB2 FAZED GGBGG3 FAKED GGGGG4
+                                GGGGG3
+                   BBSGS2 FAXED GGGGG3
+                   BBGGB2 FADED GGGGG3
+                   SBSGB2 FACED GGGGG3
+      BBBGS1 FUSED GGGGG2
+      BBBGG1 FADES GBBGG2 FUMES GBBGG3 FLEES GGGGG4
+                                GGGGG3
+                   GGBGG2 FACES GGGGG3
+                   GGGGG2
+      BBSBB1 FLUID GBBSB2 FINCH GGGGG3
+                   GSBGB2 FOLIO GGGGG3
+                   GGGGG2
+      BBSBG1 FINKS GGBBG2 FILMS GGGGG3
+                   GGGBG2 FINDS GGGGG3
+                   GGGGG2
+      BBSSB1 FIEND GGGBG2 FIELD GGGGG3
+                   GGGGG2
+      BBSGB1 FIXED GGGGG2
+      BBSGG1 FIXES GGBGG2 FINES GGGGG3
+                   GGGGG2
+      BBGBB1 FLING GGGGG2
+      BBGBG1 FAILS GGGGG2
+      BBGSB1 FEIGN GGGGG2
+      BBGGG1 FLIES GGGGG2
+      BSBBB1 FORAY GSSBB2 FLOUR GGGGG3
+                   GSSSB2 FAVOR GGGGG3
+                   GGGBB2 FORUM GGGGG3
+                   GGGGG2
+      BSBBG1 FORKS GGSBG2 FOURS GGGGG3
+                   GGGBG2 FORMS GGGGG3
+                   GGGGG2
+      BSBSB1 FLARE GBBSS2 FEMUR GGGGG3
+                   GBBSG2 FORGE GGGGG3
+                   GBSSG2 FARCE GGGGG3
+                   GSSSS2 FERAL GGGGG3
+                   GGGGG2
+      BSBSG1 FERNS GGGGG2
+      BSBGB1 WEALD BSBBB2 FUMER GGGGG3
+                   BSSBB2 FAKER GGGGG3
+                   BSSBG2 FARED GGGGG3
+                   BGBBB2 FEVER GGGGG3
+                   SGBBB2 FEWER GGGGG3
+      BSSSB1 FIERY GGGGG2
+      BSSGB1 ZONAL BBBBB2 FIXER GGGGG3
+                   BBBBS2 FILER GGGGG3
+                   BBGBB2 FINER GGGGG3
+      BSSGG1 FIRES GGGGG2
+      BSGBG1 FAIRS GGGGG2
+      BSGGB1 FLIER GGGGG2
+      BGBBB1 FROCK GGBBB2 FRAUD GGGGG3
+                   GGBBG2 FRANK GGGGG3
+                   GGGGG2
+      BGBBS1 FROSH GGGGG2
+      BGBBG1 FROGS GGGGG2
+      BGBSB1 FRAME GGBBG2 FROZE GGGGG3
+                   GGGGG2
+      BGBSS1 FRESH GGGGG2
+      BGBGB1 FREED GGBGB2 FRYER GGGGG3
+                   GGGGG2
+      BGGBB1 ZONER BBBBS2 FRILL GGGGG3
+                   BBBBG2 FRIAR GGGGG3
+                   SBBBS2 FRIZZ GGGGG3
+      BGGBS1 FRISK GGGGG2
+      SBBBB1 FAULT GGGGG2
+      SBBBG1 FASTS GGBGG2 FACTS GGGGG3
+                   GGGGG2
+      SBBSB1 FLUTE GGGGG2
+      SBBSG1 FEATS GGBGG2 FELTS GGGGG3
+                   GGGGG2
+      SBBGB1 FACET GGGGG2
+      SBBGG1 FETES GBGGG2 FATES GGGGG3
+                   GGGGG2
+      SBSBB1 FIGHT GGBBS2 FIFTY GGGGG3
+                   GGBSS2 FIFTH GGGGG3
+                   GGGGG2
+      SBGBB1 FLINT GGGGG2
+      SBGBG1 FLITS GGGGG2
+      SSBBB1 FORTY GGGGG2
+      SSBBG1 FORTS GGGGG2
+      SSBSB1 FORTE GGGGG2
+      SSGBB1 FLIRT GGGGG2
+      SGBBB1 FRONT GGGGG2
+      SGBBS1 FROST GGGGG2
+      SGSBB1 FRUIT GGGGG2

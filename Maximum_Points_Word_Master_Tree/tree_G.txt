@@ -1,0 +1,100 @@
+URASE BBBBB1 GOLLY GBSBB2 GLITZ GGGGG3
+                   GBSBS2 GLYPH GGGGG3
+                   GSBBB2 GIZMO GGGGG3
+                   GGBBB2 GOING GGGGG3
+                   GGBBG2 GOOFY GGGGG3
+                   GGBGG2 GODLY GGGGG3
+                   GGGGG2
+      BBBBS1 GOOEY GBBSG2 GEEKY GGGGG3
+                   GBBGB2 GIVEN GGBGB3 GIBED GGGGG4
+                                GGGGG3
+                   GGBGB2 GOLEM GGGGG3
+                   GGGGG2
+      BBBBG1 GLOBE GBBBG2 GENIE GGGGG3
+                   GBGBG2 GEODE GGGGG3
+                   GGBBG2 GLIDE GGGGG3
+                   GGGGG2
+      BBBSB1 GLOMS GBBBG2 GIFTS GGGGG3
+                   GBSBG2 GOWNS GGGGG3
+                   GSBBG2 GILLS GGGGG3
+                   GSSBG2 GOLFS GGGGG3
+                   GGGBG2 GLOBS GGGGG3
+                   GGGGG2
+      BBBSS1 GENES GBBGG2 GIVES GGGGG3
+                   GGGBG2 GENTS GGGGG3
+                   GGGGG2
+      BBBGB1 GLOSS GBGGB2 GHOST GGGGG3
+                   GGGGG2
+      BBSBB1 GABBY GGGGG2
+      BBSBS1 GLEAN GGGGG2
+      BBSBG1 GABLE GGGGG2
+      BBSSB1 GANGS GGGGG2
+      BBSSS1 GAZES GGBGG2 GATES GGBGG3 GALES GGGGG4
+                                GGGGG3
+                   GGGGG2
+      BBSGB1 GASSY GGGGG2
+      BBGBB1 GIANT GBGGB2 GLAND GGGGG3
+                   GGGGG2
+      BBGBG1 GLAZE GGGGG2
+      BBGSB1 GNAWS GGGGG2
+      BBGGB1 GNASH GGGGG2
+      BSBBB1 GIRLY GGGGG2
+      BSBBS1 GORED GBSGB2 GIVER GGGGG3
+                   GGGGG2
+      BSBBG1 GENRE GGGGG2
+      BSBSS1 GORES GBGSG2 GERMS GGGGG3
+                   GGGGG2
+      BSGBB1 GNARL GGGGG2
+      BSGBG1 GLARE GGGGG2
+      BSGSS1 GEARS GGGGG2
+      BGBBB1 GRILL GGBBB2 GROOM GGGGG3
+                   GGBBG2 GROWL GGGGG3
+                   GGGBB2 GRIND GGGGG3
+                   GGGGG2
+      BGBBS1 GREED GGBGB2 GRIEF GGGGG3
+                   GGGGB2 GREET GGGGB3 GREEN GGGGG4
+                                GGGGG3
+                   GGGGG2
+      BGBBG1 GROVE GGGGG2
+      BGBSB1 GRIPS GGBBG2 GROWS GGGGG3
+                   GGGBG2 GRINS GGGGG3
+                   GGGGG2
+      BGBSS1 GREYS GGGGG2
+      BGBGB1 GROSS GGGGG2
+      BGSBB1 GROAN GGGGG2
+      BGSBS1 GREAT GGGGG2
+      BGGBB1 GRAIL GGGBB2 GRAFT GGGGG3
+                   GGGGB2 GRAIN GGGGG3
+                   GGGGG2
+      BGGBG1 GRADE GGGBG2 GRATE GGGGG3
+                   GGGGG2
+      BGGSB1 WOMBY BBBBB2 GRADS GGGGG3
+                   BBBBS2 GRAYS GGGGG3
+                   BBBGB2 GRABS GGGGG3
+                   BBSBB2 GRAMS GGGGG3
+      BGGGB1 GRASP GGGGB2 GRASS GGGGG3
+                   GGGGG2
+      SBBBB1 GUILT GGBBB2 GUMMY GGGBB3 GUMBO GGGGG4
+                                GGGGG3
+                   GGBGB2 GULLY GGGGG3
+                   GGGGB2 GUILD GGGGG3
+                   GGGGG2
+      SBBBS1 GLUEY GGGGG2
+      SBBBG1 GUILE GGGBG2 GUIDE GGGGG3
+                   GGGGG2
+      SBBSB1 GULFS GGBGG2 GUFFS GGGGG3
+                   GGGBG2 GULLS GGGGG3
+                   GGGGG2
+      SBBSS1 GLUES GGGGG2
+      SBBGS1 GUESS GGGGG2
+      SBBGG1 GUISE GGGGG2
+      SBSBB1 GAUDY GGSBB2 GAMUT GGGGG3
+                   GGGGG2
+      SBSBG1 GAUZE GGGGG2
+      SBGBB1 GUAVA GGGGG2
+      SGBBB1 GROUT GGBSB2 GRUMP GGGBB3 GRUFF GGGGG4
+                                GGGGG3
+                   GGBSG2 GRUNT GGGGG3
+                   GGGGB2 GROUP GGGGG3
+                   GGGGG2
+      SGBBS1 GRUEL GGGGG2
